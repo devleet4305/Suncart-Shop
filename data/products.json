@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 29.99,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV400 protection sunglasses perfect for summer outings. Lightweight frame with polarized lenses that block 100% of harmful UVA and UVB rays. Ideal for beach, driving, and outdoor activities.",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&q=80",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Floral Summer Dress",
+    "brand": "BeachBloom",
+    "price": 49.99,
+    "rating": 4.5,
+    "stock": 15,
+    "description": "Lightweight floral maxi dress made from breathable cotton blend. Features adjustable straps, a flowy silhouette, and vibrant summer prints. Perfect for beach days, picnics, and casual outings.",
+    "image": "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=500&q=80",
+    "category": "Clothing"
+  },
+  {
+    "id": 3,
+    "name": "SPF 50 Sunscreen Lotion",
+    "brand": "GlowGuard",
+    "price": 18.99,
+    "rating": 4.8,
+    "stock": 25,
+    "description": "Broad-spectrum SPF 50 sunscreen that protects against UVA and UVB rays. Water-resistant formula lasts up to 80 minutes. Non-greasy, lightweight texture suitable for all skin types.",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=500&q=80",
+    "category": "Skincare"
+  },
+  {
+    "id": 4,
+    "name": "Inflatable Beach Float",
+    "brand": "WaveRider",
+    "price": 34.99,
+    "rating": 4.3,
+    "stock": 8,
+    "description": "Giant inflatable flamingo pool float perfect for summer fun. Made from durable, puncture-resistant PVC. Holds up to 220 lbs. Includes repair kit. Great for pools, lakes, and calm ocean waters.",
+    "image": "https://images.unsplash.com/photo-1530053969600-caed2596d242?w=500&q=80",
+    "category": "Beach Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Straw Beach Hat",
+    "brand": "SunShade",
+    "price": 22.99,
+    "rating": 4.6,
+    "stock": 20,
+    "description": "Wide-brim woven straw hat with UPF 50+ sun protection. Adjustable inner band for a perfect fit. Foldable design for easy packing. Stylish and functional for beach, garden, and travel.",
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?w=500&q=80",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "name": "Waterproof Beach Bag",
+    "brand": "CoastalCarry",
+    "price": 39.99,
+    "rating": 4.4,
+    "stock": 12,
+    "description": "Spacious waterproof tote bag with multiple compartments. Features a wet/dry separation pocket, insulated cooler section, and sand-proof lining. Perfect for beach days, pool trips, and outdoor adventures.",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=500&q=80",
+    "category": "Beach Accessories"
+  },
+  {
+    "id": 7,
+    "name": "Men's Swim Shorts",
+    "brand": "TideWear",
+    "price": 27.99,
+    "rating": 4.5,
+    "stock": 18,
+    "description": "Quick-dry men's swim shorts with elastic waistband and drawstring. Features side pockets and a mesh lining for comfort. Available in vibrant tropical prints. UPF 30+ sun protection fabric.",
+    "image": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=500&q=80",
+    "category": "Clothing"
+  },
+  {
+    "id": 8,
+    "name": "Aloe Vera After-Sun Gel",
+    "brand": "GlowGuard",
+    "price": 14.99,
+    "rating": 4.9,
+    "stock": 30,
+    "description": "Soothing aloe vera gel that instantly cools and hydrates sun-exposed skin. Enriched with vitamin E and cucumber extract. Alcohol-free formula suitable for sensitive skin. Provides relief from sunburn.",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=500&q=80",
+    "category": "Skincare"
+  }
+]
